@@ -1,4 +1,4 @@
 ### AucaRegistrationSystemInSpring
 - Project Name: **AUCA Registration System**
-- Student Name: Bahize Jonas
+- Student Name: **Bahizi Jonas**
 - Student ID: **23410**
